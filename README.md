@@ -128,17 +128,27 @@ Different API sections such as details, moves, and evolution chains handle their
 
 ## 📸 Screenshots
 
-Add screenshots to the `screenshots/` folder:
+### 🏠 Home
 
-    screenshots/
-    ├── home.png
-    ├── detail.png
-    ├── compare.png
-    ├── mobile.png
-    ├── dark-mode.png
-    └── search-empty.png
+![Home](screenshots/home.png)
 
----
+### 🔍 Pokémon Details
+
+![Pokémon Details - Part 1](screenshots/detailed.png)
+
+![Pokémon Details - Part 2](screenshots/detailed1.png)
+
+### ⚔️ Compare Pokémon
+
+![Compare Pokémon](screenshots/compare.png)
+
+### ⚠️ Error & Retry State
+
+![Error State](screenshots/error.png)
+
+### ⭐ Favorites
+
+![Favorites](screenshots/fav.png)
 
 ## 🎯 Assignment Coverage
 
