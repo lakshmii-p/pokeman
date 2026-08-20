@@ -152,7 +152,7 @@ Different API sections such as details, moves, and evolution chains handle their
 
 ### 📱 Mobile View
 
-![Responsive design](screenshots/pokeman.png)
+![Responsive design](screenshots/pokeman.jpeg)
 
 ## 🎯 Assignment Coverage
 
