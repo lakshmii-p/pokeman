@@ -150,6 +150,10 @@ Different API sections such as details, moves, and evolution chains handle their
 
 ![Favorites](screenshots/fav.png)
 
+### 📱 Mobile View
+
+![Responsive design](screenshots/pokeman.png)
+
 ## 🎯 Assignment Coverage
 
 This project implements the assignment's required Pokémon listing, search, pagination/load more, details, type filtering, responsive design, modern UI, animations, loading/error states, reusable architecture, and TypeScript.
