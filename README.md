@@ -2,8 +2,8 @@
 
 A modern, responsive Pokédex built with **React, TypeScript, and PokéAPI**. The project focuses on API integration, polished UI/UX, responsive design, accessibility, and reusable component architecture.
 
-🔗 **Live Demo:** `YOUR_DEPLOYED_URL`  
-🔗 **GitHub:** `YOUR_GITHUB_URL`
+🔗 **Live Demo:** `https://pokemon-explorer-sand-two.vercel.app/`  
+🔗 **GitHub:** `https://github.com/lakshmii-p/pokeman`
 
 ---
 
